@@ -1,0 +1,80 @@
+2026-11-07 22:00:58,195 INFO Generating morning content with Claude...
+2026-11-07 22:02:09,893 INFO Generating morning content with Claude...
+2026-11-07 22:07:17,618 INFO Generating morning content with Claude...
+2026-11-07 22:07:18,263 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-11-07 22:12:21,700 INFO Generating morning content with Claude...
+2026-11-07 22:12:22,390 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-11-07 22:13:25,710 INFO Generating morning content with Claude...
+2026-11-07 22:13:26,617 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2026-11-07 22:16:06,128 INFO Generating morning content with Claude...
+2026-11-07 22:16:07,040 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-11-07 22:28:14,885 INFO Generating morning content with Claude...
+2026-11-07 22:28:14,886 INFO AFC is enabled with max remote calls: 10.
+2026-11-07 22:28:18,723 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-11-07 22:30:01,061 INFO Generating morning content with Claude...
+2026-11-07 22:30:01,061 INFO AFC is enabled with max remote calls: 10.
+2026-11-07 22:32:36,845 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-11-07 22:44:13,574 INFO Generating morning content with Claude...
+2026-11-07 22:44:13,574 INFO AFC is enabled with max remote calls: 10.
+2026-11-07 22:46:13,674 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-11-07 22:46:46,576 INFO Generating evening content with Claude...
+2026-11-07 22:46:46,577 INFO AFC is enabled with max remote calls: 10.
+2026-11-07 22:48:51,043 INFO Generating morning content with Claude...
+2026-11-07 22:48:51,043 INFO AFC is enabled with max remote calls: 10.
+2026-11-07 22:52:16,300 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-11-07 23:10:15,560 INFO Generating morning herbal infographic with Gemini...
+2026-11-07 23:10:15,561 INFO AFC is enabled with max remote calls: 10.
+2026-11-07 23:11:27,081 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-11-08 08:11:54,578 INFO Generating morning herbal infographic with Gemini...
+2026-11-08 08:11:54,580 INFO AFC is enabled with max remote calls: 10.
+2026-11-08 08:13:22,798 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-11-08 08:24:43,684 INFO Generating morning herbal infographic with Gemini...
+2026-11-08 08:24:43,685 INFO AFC is enabled with max remote calls: 10.
+2026-11-08 08:25:55,850 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-11-08 08:26:00,457 INFO Published Facebook Page photo post: 862181093655890_122151307785195132
+2026-11-08 08:26:00,476 INFO Finished slot morning.
+2026-11-08 08:36:41,289 INFO Generating evening herbal infographic with Gemini...
+2026-11-08 08:36:41,290 INFO AFC is enabled with max remote calls: 10.
+2026-11-08 08:36:54,407 INFO Slot morning already completed for 2026-11-08. Skipping.
+2026-11-08 08:37:16,504 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-11-08 08:37:20,399 INFO Published Facebook Page photo post: 862181093655890_122151308853195132
+2026-11-08 08:37:26,336 INFO Published Facebook Page Story: 1410421277923827
+2026-11-08 08:37:26,341 INFO Finished slot evening.
+2026-11-08 20:00:04,756 INFO Slot evening already completed for 2026-11-08. Skipping.
+2026-11-08 20:06:40,101 INFO Slot evening already completed for 2026-11-08. Skipping.
+2026-11-09 10:00:05,401 INFO Generating morning herbal infographic with Gemini...
+2026-11-09 10:00:05,402 INFO AFC is enabled with max remote calls: 10.
+2026-11-09 10:00:25,816 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-11-09 10:32:46,415 INFO Generating morning herbal infographic with Gemini...
+2026-11-09 10:32:46,416 INFO Generating morning herbal infographic with Gemini...
+2026-11-09 10:32:46,416 INFO Gemini request attempt 1/5
+2026-11-09 10:32:46,416 INFO AFC is enabled with max remote calls: 10.
+2026-11-09 10:32:53,069 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-11-09 10:32:53,073 WARNING Temporary Gemini error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}. Retrying in 5 seconds.
+2026-11-09 10:32:58,074 INFO Gemini request attempt 2/5
+2026-11-09 10:32:58,075 INFO AFC is enabled with max remote calls: 10.
+2026-11-09 10:37:55,473 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-11-09 10:37:59,764 INFO Published Facebook Page photo post: 862181093655890_122151430911195132
+2026-11-09 10:38:07,238 INFO Published Facebook Page Story: 1804292557449347
+2026-11-09 10:38:07,242 INFO Finished slot morning.
+2026-11-09 18:45:08,423 INFO Generating evening herbal infographic with Gemini...
+2026-11-09 18:45:08,424 INFO Generating evening herbal infographic with Gemini...
+2026-11-09 18:45:08,425 INFO Gemini request attempt 1/5
+2026-11-09 18:45:08,425 INFO AFC is enabled with max remote calls: 10.
+2026-11-09 18:45:42,388 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-11-09 18:45:42,391 WARNING Temporary Gemini error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}. Retrying in 5 seconds.
+2026-11-09 18:45:47,393 INFO Gemini request attempt 2/5
+2026-11-09 18:45:47,393 INFO AFC is enabled with max remote calls: 10.
+2026-11-09 18:55:02,355 INFO Generating evening herbal infographic with Gemini...
+2026-11-09 18:55:02,355 INFO Generating evening herbal infographic with Gemini...
+2026-11-09 18:55:02,356 INFO Gemini request attempt 1/5
+2026-11-09 18:55:02,356 INFO AFC is enabled with max remote calls: 10.
+2026-11-09 20:00:03,350 INFO Generating evening herbal infographic with Gemini...
+2026-11-09 20:00:03,361 INFO Generating evening herbal infographic with Gemini...
+2026-11-09 20:00:03,361 INFO Gemini request attempt 1/5
+2026-11-09 20:00:03,362 INFO AFC is enabled with max remote calls: 10.
+2026-11-09 20:05:32,393 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-11-09 20:05:32,419 INFO Selected new topic: French Tarragon
+2026-11-09 20:05:37,114 INFO Published Facebook Page photo post: 862181093655890_122151481149195132
+2026-11-09 20:05:44,986 INFO Published Facebook Page Story: 1538538358097681
+2026-11-09 20:05:45,003 INFO Finished slot evening.
